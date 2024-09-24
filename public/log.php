@@ -50,7 +50,7 @@
         <input type="password" placeholder="Password"  id="password" name="password">
         <button type="submit">Login</button>
         <div class="quote-container">
-        <p id="register-quote">Don't have an account? <a href="">Sign up instead!</a> </p>
+        <p id="register-quote">Don't have an account? <a href="signup.php">Sign up instead!</a> </p>
     </div>
     </form>
 </section>
